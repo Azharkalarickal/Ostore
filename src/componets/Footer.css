@@ -1,0 +1,9 @@
+.footer{
+background-color: cadetblue;
+text-align: center;
+position: fixed;
+padding-top: 10px;
+bottom: 0;
+height: 40px;
+width: 100%;
+}

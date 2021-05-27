@@ -1,0 +1,117 @@
+.loginbackgroung{
+    background-color: white;
+    
+}
+.loginbox {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(199, 186, 186);
+    display: block;
+    margin: auto;
+        margin-top: auto;
+    margin-top: 6rem;
+    border-width: 2px;
+    box-shadow: 0px 0px 291px 20px #000;
+    border-radius: 43px;
+}
+
+
+.sign-log-button{
+    
+    display: inline-block;
+    background-color: white;
+   width: 350px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 25px;
+    box-shadow: 0px 0px 23px 0px;
+    
+}
+.signin{
+    font-weight: 500;
+    padding-right: 15px;
+    cursor: pointer;
+}
+.signup{
+    font-weight: 500;
+    padding-left:15px;
+    cursor: pointer;
+}
+.signinbox{
+    margin-top: 50px;
+    background-color: white;
+}
+.logicon{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.signinform{
+    background-color: white;
+    width: max-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+.textbox {
+    width: 200px;
+    height: 31px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(199, 186, 186);
+    border-radius: 11px;
+    text-align: center;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.sbutton {
+    width: 157px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: #a3a3e1;
+    height: 29px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.forgot{
+    background-color: rgb(199, 186, 186);
+    width: 100%;
+    height: 25px;
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+}
+.forgot1{
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 18px;
+   cursor: pointer;
+   color: blue;
+   
+}
+.logiconup {
+    width: 236px;
+    display: block;
+    margin-left: 118px;
+    margin-right: auto;
+    margin-top: 7px;
+}
+.signupbox{
+    margin-top: 20px;
+    background-color: white;
+}
+.forgot2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    cursor: pointer;
+    
+ }
